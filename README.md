@@ -7,7 +7,7 @@ A simple Django web app that displays my resume as a HTML webpage.
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/<your-username>/CV.git
+git clone https://github.com/Prashanthsrn/django_cv.git
 cd CV
 ```
 

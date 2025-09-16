@@ -14,7 +14,10 @@ cd django_cv
 2. **Create and activate a virtual environment**
 
 ```bash
+python3 -m venv venv
+# OR 
 python -m venv venv
+
 source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
 ```
@@ -28,6 +31,8 @@ pip install django
 4. **Start the server**
 
 ```bash
+python3 manage.py runserver
+# OR 
 python manage.py runserver
 ```
 
